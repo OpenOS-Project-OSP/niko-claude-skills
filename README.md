@@ -1,5 +1,7 @@
 # niko-claude-skills
 
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-OSP/niko-claude-skills) [![KDE Eco](https://img.shields.io/badge/KDE%20Eco-certified-brightgreen?logo=kde&logoColor=white&style=flat-square)](https://eco.kde.org/) [![Blue Angel](https://img.shields.io/badge/Blue%20Angel-DE--UZ%20215-0055a4?style=flat-square)](https://www.blauer-engel.de/en/certification/criteria)
+
 **TL;DR:** This repo is a public copy of eleven of Niko's Claude Code skills (written playbooks that tell an AI coding agent how to do a kind of work: design a UI system, review an interface, build sign-in, audit a SaaS idea, clean up a Mac). It exists so that Claude agents running somewhere other than Niko's Mac, such as GitHub Actions, can read the same playbooks he uses locally.
 
 ## What it is
